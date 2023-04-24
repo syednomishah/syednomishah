@@ -40,7 +40,7 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
 - 🔭 I’m currently working as **Content Creator on YouTube**
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
+- 🤔 I’m trying to socialize with tech community
 - 💬 Ask me about **Web/App Development**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/syed_nomi_shah)**
