@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=syednomishah&show_icons=true&hide_border=true&theme=dark) 
+I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mern Stack, RESTfull API’s, User Experience, and Design.** Strong engineering professional with a Bachelor of Computer Application focused in Front End / Back End Developer.
+
+
+<table cellpadding="0" >
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td style="border: none" valign="top"><img height="230" src="https://github-readme-stats.vercel.app/api?username=syednomishah&show_icons=true&hide_border=true&theme=dark"/></td>
+    <!-- GitHub Top Language Card -->
+    <td style="border: none" valign="top"><img height="230" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></td>
+  </tr>
+</table>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syednomishah&layout=compact&theme=dark&hide_border=false) -->
 
