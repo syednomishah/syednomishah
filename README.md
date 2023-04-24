@@ -12,7 +12,7 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
   </tr>
 </table>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syednomishah&layout=compact&theme=dark&hide_border=false) -->
+<br />
 
 [![GitHub Code With Nomi](https://img.shields.io/github/followers/syednomishah?label=follow&style=social)](https://github.com/syednomishah)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCILovaLl2fUPAww1bGJ4sJQ?style=social)
