@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Code With Nomi](https://img.shields.io/github/followers/syednomishah?label=follow&style=social)](https://github.com/syednomishah)
+
+
 <!--
 **syednomishah/syednomishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
