@@ -8,8 +8,6 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
 
 <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" style="height: 21px" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 [![GitHub Code With Nomi](https://img.shields.io/github/followers/syednomishah?label=follow&style=social)](https://github.com/syednomishah)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCILovaLl2fUPAww1bGJ4sJQ?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCILovaLl2fUPAww1bGJ4sJQ?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/code_with_nomi?style=social)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
