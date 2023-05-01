@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, React Native, NodeJS, MongoDB, Mern Stack, RESTfull API’s, User Experience, and Design.** Strong engineering professional with a Bachelor of Computer Application focused in Front End / Back End Developer.
+I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienced **Fullstack Developer**. **Skilled in React JS, React Native, NodeJS, MongoDB, Mern Stack, RESTfull API’s, User Experience, and Design.**
 
 
 <img style="width: 70%" src="https://github-readme-stats.vercel.app/api?username=syednomishah&show_icons=true&hide_border=true&theme=dark"/>
