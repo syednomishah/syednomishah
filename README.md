@@ -8,7 +8,7 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
 
 <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" style="height: 21px" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 [![GitHub Code With Nomi](https://img.shields.io/github/followers/syednomishah?label=follow&style=social)](https://github.com/syednomishah)
-![Twitter Follow](https://img.shields.io/twitter/follow/code_with_nomi?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/codewithnomi_?style=social)
 
 ## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
@@ -34,7 +34,7 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
 - 🤔 I’m trying to socialize with tech community
 - 💬 Ask me about **Web/App Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/syed_nomi_shah)**
+  **[Twitter](https://twitter.com/codewithnomi_)**
 
 <!--
 **syednomishah/syednomishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
