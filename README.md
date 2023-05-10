@@ -10,7 +10,7 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
 [![GitHub Code With Nomi](https://img.shields.io/github/followers/syednomishah?label=follow&style=social)](https://github.com/syednomishah)
 ![Twitter Follow](https://img.shields.io/twitter/follow/code_with_nomi?style=social)
 
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
