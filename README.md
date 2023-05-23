@@ -7,7 +7,6 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
 <br />
 
 <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" style="height: 21px" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-[![GitHub Code With Nomi](https://img.shields.io/github/followers/syednomishah?label=follow&style=social)](https://github.com/syednomishah)
 ![Twitter Follow](https://img.shields.io/twitter/follow/codewithnomi_?style=social)
 
 ## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
