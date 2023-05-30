@@ -24,15 +24,7 @@ I am **Syed Noman** working as **Content Creator on YouTube**. I am an Experienc
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
----
 
-- 🔭 I’m currently working as **Content Creator on YouTube**
-- 🌱 I’m currently learning **React Native**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m trying to socialize with tech community
-- 💬 Ask me about **Web/App Development**
-- 📫 How to reach me:
-  **[Twitter](https://twitter.com/codewithnomi_)**
 
 <!--
 **syednomishah/syednomishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
